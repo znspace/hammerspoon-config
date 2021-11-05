@@ -54,11 +54,11 @@
 
 ### Launch Application
 
-- <kbd>⇧</kbd> + <kbd>V</kbd> `Visual Studio Code`
+- <kbd>⇧</kbd> + <kbd>C</kbd> `Visual Studio Code`
 - <kbd>⇧</kbd> + <kbd>G</kbd> `Google Chrome`
 - <kbd>⇧</kbd> + <kbd>K</kbd> `iTerm`
 - <kbd>⇧</kbd> + <kbd>F</kbd> `Finder`
-- <kbd>⇧</kbd> + <kbd>Y</kbd> `Activity Monitor`
+- <kbd>⇧</kbd> + <kbd>M</kbd> `Activity Monitor`
 - <kbd>⇧</kbd> + <kbd>S</kbd> `System Preferences`
 
 ### Switch Input Methods

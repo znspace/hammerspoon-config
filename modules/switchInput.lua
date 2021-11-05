@@ -11,16 +11,16 @@ local appInputSource = {
     {'/Applications/iTerm.app', 'English'},
     {'/Applications/Xcode.app', 'English'},
     {'/Applications/Visual Studio Code.app', 'English'},
-    {'/Applications/Google Chrome.app', 'Chinese'},
     {'/System/Library/CoreServices/Finder.app', 'English'},
+    {'/Applications/wechatwebdevtools.app', 'English'},
+    {'/Applications/Sketch.app', 'English'},
+    {'/Applications/Dash.app', 'English'},
+    {'/Applications/Google Chrome.app', 'Chinese'},
     {'/Applications/NeteaseMusic.app', 'Chinese'},
     {'/Applications/WeChat.app', 'Chinese'},
     {'/Applications/企业微信.app','Chinese'},
-    {'/Applications/Dash.app', 'English'},
     {'/Applications/MindNode.app', 'Chinese'},
     {'/Applications/Notion.app', 'Chinese'},
-    {'/Applications/wechatwebdevtools.app', 'English'},
-    {'/Applications/Sketch.app', 'English'},
 }
 
 

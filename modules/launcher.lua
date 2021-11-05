@@ -12,7 +12,7 @@ applist = {
   {shortcut = 'G',appname = 'Google Chrome'},
   {shortcut = 'K',appname = 'iTerm'},
   {shortcut = 'F',appname = 'Finder'},
-  {shortcut = 'Y',appname = 'Activity Monitor'},
+  {shortcut = 'M',appname = 'Activity Monitor'},
   {shortcut = 'S',appname = 'System Preferences'},
 }
 
